@@ -3,28 +3,28 @@ function Navigation() {
     return (
         <nav className="relative w-full max-w-5xl mx-auto mt-5 px-3 md:px-5 lg:px-8">
             <div className="flex flex-wrap items-center justify-between mx-auto">
-                <a href="#" className="mr-4 block cursor-pointer">
+                <a href="/" className="mr-4 block cursor-pointer">
                     <img src={logo} className='w-50' />
                 </a>
                 <div className="hidden lg:block">
                     <ul className="flex flex-col justify-center gap-2 mt-2 mb-4 px-4 py-2 shadow-sm rounded-full lg:mb-0 lg:mt-0 lg:flex-row lg:items-center lg:gap-6">
-                        <li className="flex items-center p-1 text-sm gap-x-2 text-gray-700 font-medium">
-                            <a href="#" className="flex items-center">
+                        <li className="flex items-center p-1 text-sm gap-x-2 text-gray-700 hover:text-sky-500 font-medium">
+                            <a href="#projects" className="flex items-center">
                                 Projects
                             </a>
                         </li>
-                        <li className="flex items-center p-1 text-sm gap-x-2 text-gray-700 font-medium">
-                            <a href="#" className="flex items-center">
+                        <li className="flex items-center p-1 text-sm gap-x-2 text-gray-700 hover:text-sky-500 font-medium">
+                            <a href="#team" className="flex items-center">
                                 Team
                             </a>
                         </li>
-                        <li className="flex items-center p-1 text-sm gap-x-2 text-gray-700 font-medium">
-                            <a href="#" className="flex items-center">
+                        <li className="flex items-center p-1 text-sm gap-x-2 text-gray-700 hover:text-sky-500 font-medium">
+                            <a href="#jobs" className="flex items-center">
                                 Jobs
                             </a>
                         </li>
-                        <li className="flex items-center p-1 text-sm gap-x-2 text-gray-700 font-medium">
-                            <a href="#" className="flex items-center">
+                        <li className="flex items-center p-1 text-sm gap-x-2 text-gray-700 hover:text-sky-500 font-medium">
+                            <a href="#contact" className="flex items-center">
                                 Contact
                             </a>
                         </li>

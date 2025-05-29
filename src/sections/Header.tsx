@@ -6,7 +6,7 @@ function Header() {
             <Navigation />
             <div className="relative mx-auto w-full pt-10 lg:pt-30">
                 <div className="w-full max-w-5xl mx-auto px-3 md:px-5 lg:px-8">
-                    <h1 className="text-2xl lg:text-5xl font-bold text-zinc-800">Your Journey Starts here</h1>
+                    <h1 className="text-3xl lg:text-5xl font-bold text-zinc-800">Your Journey Starts here</h1>
                     <p className="mt-5 text-base text-zinc-500">
                         We share inspiring stories, expert tips, and epic guides to help you explore the world with confidence.
                     </p>

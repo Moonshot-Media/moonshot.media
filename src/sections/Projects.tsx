@@ -13,8 +13,8 @@ import Card from "../components/Card";
 function Projects() {
     return (
         <div className="relative mx-auto w-full pt-20 px-3 md:px-5 lg:px-8">
-            <div className="w-full max-w-5xl mx-auto">
-                <h1 className="text-xl lg:text-3xl font-bold text-zinc-800 mb-10">Projects</h1>
+            <div className="w-full max-w-5xl mx-auto" id="projects">
+                <h1 className="text-3xl lg:text-3xl font-bold text-zinc-800 mb-10">Projects</h1>
             </div>
             <div className="w-full max-w-5xl mx-auto">
                 <div className="flex flex-wrap gap-4">
