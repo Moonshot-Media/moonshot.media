@@ -19,7 +19,7 @@ function Header() {
                                 loading="lazy"
                                 decoding="async"
                                 className="absolute inset-0 h-full w-full object-cover"
-                                src="/public/barcelona.jpg"
+                                src="/barcelona.jpg"
                             />
                         </div>
                         <div className="relative aspect-9/10 w-44 flex-none overflow-hidden rounded-xl bg-zinc-100 sm:w-72 sm:rounded-2xl dark:bg-zinc-800 -rotate-2">
@@ -27,7 +27,7 @@ function Header() {
                                 alt=""
                                 loading="lazy"
                                 className="absolute inset-0 h-full w-full object-cover"
-                                src="/public/lisbon.jpg"
+                                src="/lisbon.jpg"
                             />
                         </div>
                         <div className="relative aspect-9/10 w-44 flex-none overflow-hidden rounded-xl bg-zinc-100 sm:w-72 sm:rounded-2xl dark:bg-zinc-800 rotate-2">
@@ -35,21 +35,21 @@ function Header() {
                                 alt=""
                                 loading="lazy"
                                 className="absolute inset-0 h-full w-full object-cover"
-                                src="/public/london.jpg" />
+                                src="/london.jpg" />
                         </div>
                         <div className="relative aspect-9/10 w-44 flex-none overflow-hidden rounded-xl bg-zinc-100 sm:w-72 sm:rounded-2xl dark:bg-zinc-800 rotate-2">
                             <img
                                 alt=""
                                 loading="lazy"
                                 className="absolute inset-0 h-full w-full object-cover"
-                                src="/public/paris.jpg" />
+                                src="/paris.jpg" />
                         </div>
                         <div className="relative aspect-9/10 w-44 flex-none overflow-hidden rounded-xl bg-zinc-100 sm:w-72 sm:rounded-2xl dark:bg-zinc-800 -rotate-2">
                             <img
                                 alt=""
                                 loading="lazy"
                                 className="absolute inset-0 h-full w-full object-cover"
-                                src="/public/rome.jpg" />
+                                src="/rome.jpg" />
                         </div>
                     </div>
                 </div>

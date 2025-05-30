@@ -1,6 +1,6 @@
 function Contact() {
     return (
-        <div className="relative mx-auto w-full pt-20 px-3 md:px-5 lg:px-8">
+        <div className="relative mx-auto w-full pt-15 px-3 md:px-5 lg:px-8">
             <div className="w-full max-w-5xl mx-auto mb-10" id="contact">
                 <h1 className="text-3xl lg:text-3xl font-bold text-zinc-800 mb-5">Contact</h1>
                 <div className="mb-8">
@@ -12,14 +12,16 @@ function Contact() {
                     </p>
                 </div>
 
-                <div className="mb-8">
-                    <h3 className="text-lg font-semibold text-gray-700 mb-2">Phone</h3>
-                    <p className="text-gray-600">+1 (123) 456-7890</p>
-                </div>
+                {/*
+                    <div className="mb-8">
+                        <h3 className="text-lg font-semibold text-gray-700 mb-2">Phone</h3>
+                        <p className="text-gray-600">+1 (123) 456-7890</p>
+                    </div>
+                */}
 
                 <div className="mb-8">
                     <h3 className="text-lg font-semibold text-gray-700 mb-2">Email</h3>
-                    <p className="text-gray-600">info@example.com</p>
+                    <p className="text-gray-600">info@moonshot.media</p>
                 </div>
 
                 <div className="relative h-0 overflow-hidden mb-6">
