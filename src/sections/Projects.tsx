@@ -19,7 +19,7 @@ function Projects() {
             <div className="w-full max-w-5xl mx-auto">
                 <div className="flex flex-wrap gap-4">
                     <Card title="barcelonacard.org" icon={BarcelonaIcon} flag="./es-flag.svg" year="2013" />
-                    <Card title="budapestcard.org" icon={BudapestIcon} flag="/.hu-flag.svg" year="2013" />
+                    <Card title="budapestcard.org" icon={BudapestIcon} flag="./hu-flag.svg" year="2013" />
                     <Card title="hoponhopoffbarcelona.org" icon={BusIcon} flag="./es-flag.svg" year="2014" />
                     <Card title="lisboacard.org" icon={LisbonIcon} flag="./pt-flag.svg" year="2013" />
                     <Card title="rome.info" icon={RomeIcon} flag="./it-flag.svg" year="2002" />
