@@ -18,16 +18,16 @@ function Projects() {
             </div>
             <div className="w-full max-w-5xl mx-auto">
                 <div className="flex flex-wrap gap-4">
-                    <Card title="thecolosseum.org" icon={ColosseumIcon} flag="/it-flag.svg" year="2016" />
                     <Card title="barcelonacard.org" icon={BarcelonaIcon} flag="/es-flag.svg" year="2013" />
-                    <Card title="thingstodoinlondon.com" icon={LondonIcon} flag="/en-flag.svg" year="2002" />
-                    <Card title="rome.info" icon={RomeIcon} flag="/it-flag.svg" year="2002" />
                     <Card title="budapestcard.org" icon={BudapestIcon} flag="/hu-flag.svg" year="2013" />
-                    <Card title="thingstodoinparis.com" icon={ParisIcon} flag="/it-flag.svg" year="2005" />
-                    <Card title="lisboacard.org" icon={LisbonIcon} flag="/pt-flag.svg" year="2013" />
                     <Card title="hoponhopoffbarcelona.org" icon={BusIcon} flag="/es-flag.svg" year="2014" />
-                    <Card title="visitcampnou.com" icon={StadiumIcon} flag="/es-flag.svg" year="2016" />
+                    <Card title="lisboacard.org" icon={LisbonIcon} flag="/pt-flag.svg" year="2013" />
+                    <Card title="rome.info" icon={RomeIcon} flag="/it-flag.svg" year="2002" />
+                    <Card title="thecolosseum.org" icon={ColosseumIcon} flag="/it-flag.svg" year="2016" />
                     <Card title="thingstodoinbarcelona.com" icon={BarcelonaIcon2} flag="/es-flag.svg" year="2014" />
+                    <Card title="thingstodoinlondon.com" icon={LondonIcon} flag="/en-flag.svg" year="2002" />
+                    <Card title="thingstodoinparis.com" icon={ParisIcon} flag="/it-flag.svg" year="2005" />
+                    <Card title="visitcampnou.com" icon={StadiumIcon} flag="/es-flag.svg" year="2016" />
                 </div>
             </div>
         </div>
