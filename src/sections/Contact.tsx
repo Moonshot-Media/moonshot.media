@@ -1,3 +1,6 @@
+import phone from '../assets/phone.jpg';
+import email from '../assets/email.jpg';
+
 function Contact() {
     return (
         <div className="relative mx-auto w-full pt-15 px-3 md:px-5 lg:px-8">
@@ -14,12 +17,12 @@ function Contact() {
 
                 <div className="mb-8">
                     <h3 className="text-lg font-semibold text-gray-700 mb-2">Phone</h3>
-                    <p className="text-gray-600">+34 936 940 503</p>
+                    <img src={phone} />
                 </div>
 
                 <div className="mb-8">
                     <h3 className="text-lg font-semibold text-gray-700 mb-2">Email</h3>
-                    <p className="text-gray-600">info@moonshot.media</p>
+                    <img src={email} />
                 </div>
 
                 <div className="relative h-0 overflow-hidden mb-6">
