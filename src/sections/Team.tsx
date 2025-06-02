@@ -11,10 +11,10 @@ function Team() {
             </div>
             <div className="w-full max-w-5xl mx-auto">
                 <div className="flex flex-wrap gap-4 justify-between">
-                    <Member avatar="/matthias.webp" name="Matthias" role="Founder" />
-                    <Member avatar="/ryan.webp" name="Ryan" role="Developer" />
-                    <Member avatar="/my.webp" name="My" role="Content Manager" />
-                    <Member avatar="/thu.webp" name="Thu" role="Content Manager" />
+                    <Member avatar="./matthias.webp" name="Matthias" role="Founder" />
+                    <Member avatar="./ryan.webp" name="Ryan" role="Developer" />
+                    <Member avatar="./my.webp" name="My" role="Content Manager" />
+                    <Member avatar="./thu.webp" name="Thu" role="Content Manager" />
                 </div>
             </div>
         </div>
