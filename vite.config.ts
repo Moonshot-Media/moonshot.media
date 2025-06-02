@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite';
 import { ghPages } from 'vite-plugin-gh-pages';
 
 export default defineConfig({
-    base: "/moonshot.media/",
+    base: "/",
     plugins: [
         react(),
         tailwindcss(),
